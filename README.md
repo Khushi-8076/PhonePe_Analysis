@@ -45,7 +45,7 @@ The dashboard provides key business insights through interactive visualizations 
 - Loans generate the highest transaction value among services.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](phonepe deshboard .png)
+![Dashboard Preview](phonepe_deshboard.png)
 
 
 ---
